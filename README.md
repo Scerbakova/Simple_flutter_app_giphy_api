@@ -1,16 +1,13 @@
 # giphy_app_flutter
 
-A new Flutter project.
+In this app there is a possibility to search for gifs,
 
-## Getting Started
+load more gifs,
 
-This project is a starting point for a Flutter application.
+one gif view
 
-A few resources to get you started if this is your first Flutter project:
+![giphy](https://user-images.githubusercontent.com/97510856/183837975-65fa851b-f025-4477-9619-41225e4f9860.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![giphy2](https://user-images.githubusercontent.com/97510856/183837994-ad34d8e0-29d7-4fde-a105-e7d803f8534f.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![giphy3](https://user-images.githubusercontent.com/97510856/183838006-299a247a-7e6e-4a26-97ef-3d7e5efa3213.png)
